@@ -9,8 +9,22 @@ body {
   display: flex;
   padding: 100px;
   margin-top: 1px;
+  align-items: center;
 }
 .dis {
-  padding: 180px;
+  padding: 70px;
   font-size: 20px;
+  background-color: #40739e;
+  margin: 100px;
+  border-radius: 20px;
+}
+.raw {
+  padding: 10px;
+  margin-left: 300px;
+  background-color: #45aaf2;
+  border-radius: 20px;
+  align-items: center;
+}
+.del {
+  margin-top: 100px;
 }
