@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(to right, #48dbfb,#ff9ff3);
+}
+.name {
+  text-align: center; color: #57606f;font-family: "Righteous", sans-serif;
+}
+.section {
+  list-style: none;
+  display: flex;
+  padding: 100px;
+  margin-top: 1px;
+}
+.dis {
+  padding: 180px;
+  font-size: 20px;
+}
